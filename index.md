@@ -1,7 +1,3 @@
 ---
-title: Welcome to my blog
----
-
----
-hello: world
+title: Welcome to my blog (updated)
 ---
